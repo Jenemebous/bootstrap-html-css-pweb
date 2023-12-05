@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Questão 3 BootStrap</title>
+</head>
+<body>
+   <div class="container-sm">
+    <p class="text-muted">atuma & laca</p>
+    <p class="text-primary">atuma & laca</p>
+    <p class="text-success">atuma & laca</p>
+    <p class="text-info">atuma & laca</p>
+    <p class="text-warning">atuma & laca</p>
+    <p class="text-danger">atuma & laca</p>
+    <p class="text-secondary">atuma & laca</p>
+    <p class="text-white">atuma & laca</p>
+    <p class="text-dark">atuma & laca</p>
+    <p class="text-body">atuma & laca</p>
+
+
+   </div>
+    
+</body>
+</html>
